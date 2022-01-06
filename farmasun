@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Farmasun</title>
+    </head>
+<!--------------------------------------------------------------------------------------->
+    <style>
+        body{
+            margin: 0px;
+            padding: 0px;
+        }
+        .topbar{
+            width: 1000px;
+            padding: 0px;
+            margin:0 auto;
+        }
+        .LOGO{
+            width: 400px;
+            height: 166px;
+            align-items: center;
+            justify-content: center;
+            margin-top: 60px;
+        }
+        .CORPO{
+            width: 400px;
+           /*background-color: rgba(148, 148, 148, 0.514);*/
+            padding: 0px;
+            margin:0 auto;
+            /*border-left: 1px solid rgba(170, 170, 170, 0.582);
+            border-right: 1px solid rgba(170, 170, 170, 0.582);
+            border-bottom: 1px solid rgba(170, 170, 170, 0.582);*/
+            padding: 8px;
+        }
+        .i{
+            float: left;
+        }
+        .ii{
+            float: left;
+            position: relative;
+            top: 9px;
+            left: 70px;
+        }
+        .ii_{
+            float: left;
+            position: relative;
+            top: 9px;
+            left: 70px;
+        }
+        .iii{
+            float: left;
+            position: relative;
+            top: 25px;
+            left: 70px;
+
+        }
+        .iii_{
+            float: left;
+            position: relative;
+            top: 25px;
+            left: 70px;
+        }
+        .iii__{
+            float: left;
+            position: relative;
+            top: 25px;
+            left: 70px;
+        }
+        .iv{
+            float: left;
+            position: relative;
+            top: 6px;
+            left: 70px;
+        }
+        .iv_{
+            float: left;
+            position: relative;
+            top: 6px;
+            left: 70px;
+        }
+        .v{
+            float: left;
+            position: relative;
+            top: 4px;
+            left: 70px;
+        }
+        .v_{
+            float: left;
+            position: relative;
+            top: 4px;
+            left: 70px;
+        }
+        .v__{
+            float: left;
+            position: relative;
+            top: 4px;
+            left: 70px;
+        }
+        .vi{
+            float: left;
+            position: relative;
+            top: 2px;
+            left: 70px;
+        }
+        .vi_{
+            float: left;
+            position: relative;
+            top: 2px;
+            left: 70px;
+        }
+        .vii{
+            float: left;
+            position: relative;
+        }
+        .viii{
+            float: right;
+            position: relative;
+            top: 4px;
+
+            
+        }
+        .button{
+            background-color: #ffde00;
+            border-radius: 10px;
+            border: 1px gray double;
+        }
+        .link{
+            text-decoration: none;
+
+        }
+        .button:hover{
+            background-color: #e4c816;
+        }
+        .hr_{
+            width: 500px;
+            padding: 0px;
+            margin:0 auto;
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+        #sito{
+            width: 500px;
+            padding: 0px;
+            margin:0 auto;
+        }
+        .pp{
+            font-size: 40px;
+        }
+        #img2{
+            width: 100px ;
+            height: 100px;
+            float: right;
+        }
+        .footer{
+            width: 500px;
+            padding: 0px;
+            margin:0 auto;
+            position: relative;
+            top: 30px;
+        }
+        #button2{
+            margin:0 auto;
+            padding: 0px;
+            width: 250px;
+            height: 60px;
+            position: relative;
+            left: 130px;
+            border-radius: 5px;
+        }
+
+    </style>
+<!--------------------------------------------------------------------------------------->
+    <body>
+        <div class="topbar">
+
+                <center>
+                    <a href="https://www.farmasun.it/" target="_blank">
+                        
+                        <img class="LOGO"src="https://m.farmasun.it/images/common/mainLogo2.png" alt="Logo Farmasun">
+                    
+                    </a>
+
+                </center>
+        </div>
+<!--------------------------------------------------------------------------------------->        
+        <div class="clear"></div>
+<!--------------------------------------------------------------------------------------->
+        <div class="CORPO">
+
+                <center>
+
+                    <p><span class="i">Gentile cliente,</span><br>
+                        <span class="ii">La ringraziamo per la fiducia accordataci<br></span>
+                        <span class="ii_">e per aver scelto i nostri prodotti.</span><br>
+                        <br>
+                        <br>
+                        <span class="iii">Ci auguriamo che la sua esperienza sul</span><br>
+                        <span class="iii_">nostro shop online sia stata di suo </span><br>
+                        <span class="iii__">gradimento.</span><br>     
+                        <br>
+                        <span class="iv">Per noi l’ opinione e la soddisfazione dei</span><br>
+                        <span class="iv_">nostri clienti è di prioritaria importanza.</span><br>
+                        <br>
+                        <span class="v">La invitiamo cortesemente, a fornire una </span><br>
+                        <span class="v_">sua recensione a riguardo che ci aiuti a</span><br>
+                        <span class="v__">comprendere dove potremmo migliorare.</span><br>
+                        <br>
+                        <span class="vi">Visiti la nostra pagina su TrovaPrezzi e </span><br>
+                        <span class="vi_">cllicchi su “ Scrivi un'opinione”.</span><br>
+                        <br>
+                        <button class="button" type="button"><a class="link"href="https://www.trovaprezzi.it/negozi/farmasun/opinioni"
+                            target="_blank">
+
+                        Opinioni negozio FarmaSun | Trovaprezzi.it
+
+                        </a></button><br>
+                        <br>
+                        <span class="vii">Le ringraziamo per la sua disponibiltà.</span><br>
+                        
+                        <span class="viii">Assistenza clienti farmasun</span>
+                        </p>
+
+                </center>
+        </div>
+<!--------------------------------------------------------------------------------------->        
+        <div class="clear"></div>
+        <hr class="hr_">
+<!--------------------------------------------------------------------------------------->
+        <div id="sito">
+
+            <a href="https://www.farmasun.it/ricerca-prodotti.html?strpro=bestseller">
+
+                <img id="img2"src="https://cdn.pixabay.com/photo/2013/07/13/11/53/best-seller-158885_1280.png"
+                 alt="BEST SELLER">
+
+           </a>
+
+                <p class="pp">
+
+                    Torni a visitarci<br>
+                    per <b><i></i>offerte e sconti</i></b>
+
+                </p>
+
+
+
+        </div>
+<!--------------------------------------------------------------------------------------->        
+        <div class="clear"></div>
+<!--------------------------------------------------------------------------------------->        
+        <div class="footer">
+
+            <button id="button2" type="button">
+
+                <a href="https://www.farmasun.it/" target="_blank" style="text-decoration: none;">
+                    VAI AL SITO DI FARMASUN
+                </a>
+
+            </button>
+
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    </body>
+    
+</html>
